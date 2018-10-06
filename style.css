@@ -42,6 +42,9 @@ a:hover {
     margin: 1em 2em;
     text-align: left;
 }
+.team {
+    margin: 0;
+}
 .team p {
     text-align: center;
 }
